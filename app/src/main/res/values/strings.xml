@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">SacaTuPromedio</string>
+    <string name="valorTotal">0.0</string>
+    <string name="total">Promedio Total</string>
+    <string name="parcial">Promedio Parcial</string>
+    <string name="titulo">Escoje Tu Semestre</string>
+    <string name="columnaCredito">Credito</string>
+    <string name="columnaNota">Nota</string>
+    <string name="columnaNombre">Materia</string>
+    <string name="TextoMaterias">Cantidad de Materias</string>
+    <string name="NumeroSemestre"> # semestre </string>
+    <string name="atras"> Atras </string>
+    <string name="materia1"> Materia 1 </string>
+    <string name="materia2"> Materia 2 </string>
+    <string name="materia3"> Materia 3 </string>
+    <string name="materia4"> Materia 4 </string>
+    <string name="materia5"> Materia 5 </string>
+    <string name="materia6"> Materia 6 </string>
+    <string name="materia7"> Materia 7 </string>
+    <string name="materia8"> Materia 8 </string>
+    <string name="calcula"> Guardar y Calcular </string>
+    <string name="calculalo"> CALCULALO </string>
+    <string name="valorPa"> 0.0 </string>
+    <string name="valorTo"> 0.0</string>
+    <string name="porcentaje"> % </string>
+    <string name="primerCorte"> Primer Corte </string>
+    <string name="segundoCorte"> Segundo Corte </string>
+    <string name="tercerCorte"> Tercer Corte </string>
+</resources>
